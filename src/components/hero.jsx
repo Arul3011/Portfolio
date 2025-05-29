@@ -1,4 +1,4 @@
-import prologo from "../assets/./IMG_20250408_234500.png"
+import prologo from '/my.jpg'
 import { ArrowDown } from "lucide-react"
 import { Button } from "./ui/button"
 

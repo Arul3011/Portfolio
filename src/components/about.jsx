@@ -1,4 +1,4 @@
-import img from '../assets/IMG_20250408_234500.png'
+import img from '/my.jpg'
 import { Button } from "./ui/button"
 import { Download, Users, Award, Clock } from "lucide-react"
 

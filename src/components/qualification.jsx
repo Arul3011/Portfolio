@@ -8,14 +8,14 @@ const educationData = [
     degree: "Diploma",
     field: "Diploma in computer science engineering",
     institution: "christ the king polytechnic college",
-    location: "coimbatore, India",
+    location: "Coimbatore, India",
     period: "2020 - 2023",
   },
   {
     degree: "B.Tech",
     field: "Computer science and business systems",
     institution: "kit kalaignar karunanidhi institute",
-    location: "oimbatore, India",
+    location: "Coimbatore, India",
     period: "2023 - 2026",
   },
 ]
